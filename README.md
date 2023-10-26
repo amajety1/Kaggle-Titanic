@@ -1,6 +1,6 @@
 # Kaggle-Titanic
 
-# Retail Analysis with Walmart Data
+#  Survival Analysis with Titanic Data
 
 1. [Project Motivation](#ProjectMotivation)
 2. [Installation](#installation)
